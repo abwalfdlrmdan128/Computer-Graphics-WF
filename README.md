@@ -48,8 +48,6 @@ The lines are drawn on a **Bitmap** canvas instead of direct `Graphics`, which i
 ---
 
 ## 📁 Project Structure
-## Project Structure
-
 - `Program.cs`: The main entry point of the application.
 - `Form1.cs`: Contains the main form logic, including drawing and clearing the canvas.
 - `Form1.Designer.cs`: Auto-generated designer file for UI elements like buttons.

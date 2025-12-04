@@ -13,6 +13,18 @@ The lines are drawn on a **Bitmap** canvas instead of direct `Graphics`, which i
 - **DeleteLine**  
 ![DeleteLine](./Images/DeleteLine.jpg)
 
+- **Translate Line**  
+![MainForm](./Images/MainForm.jpg)
+
+- **Scale Line**  
+![MainForm](./Images/MainForm.jpg)
+
+- **Rotate Line**  
+![MainForm](./Images/MainForm.jpg)
+
+- **Clean**  
+![MainForm](./Images/MainForm.jpg)
+
 ## 📌 Features
 - Implements DDA Line Drawing Algorithm.
 - Draws pixels on a Bitmap canvas.

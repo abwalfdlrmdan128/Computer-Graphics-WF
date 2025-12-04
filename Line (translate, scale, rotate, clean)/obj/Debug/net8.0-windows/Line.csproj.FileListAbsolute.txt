@@ -1,0 +1,48 @@
+C:\Users\Administrator\Desktop\CG\Line\bin\Debug\net8.0-windows\Line.exe
+C:\Users\Administrator\Desktop\CG\Line\bin\Debug\net8.0-windows\Line.deps.json
+C:\Users\Administrator\Desktop\CG\Line\bin\Debug\net8.0-windows\Line.runtimeconfig.json
+C:\Users\Administrator\Desktop\CG\Line\bin\Debug\net8.0-windows\Line.dll
+C:\Users\Administrator\Desktop\CG\Line\bin\Debug\net8.0-windows\Line.pdb
+C:\Users\Administrator\Desktop\CG\Line\obj\Debug\net8.0-windows\Line.Form1.resources
+C:\Users\Administrator\Desktop\CG\Line\obj\Debug\net8.0-windows\Line.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CG\Line\obj\Debug\net8.0-windows\Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CG\Line\obj\Debug\net8.0-windows\Line.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CG\Line\obj\Debug\net8.0-windows\Line.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CG\Line\obj\Debug\net8.0-windows\Line.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CG\Line\obj\Debug\net8.0-windows\Line.dll
+C:\Users\Administrator\Desktop\CG\Line\obj\Debug\net8.0-windows\refint\Line.dll
+C:\Users\Administrator\Desktop\CG\Line\obj\Debug\net8.0-windows\Line.pdb
+C:\Users\Administrator\Desktop\CG\Line\obj\Debug\net8.0-windows\Line.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CG\Line\obj\Debug\net8.0-windows\ref\Line.dll
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\bin\Debug\net8.0-windows\Line.exe
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\bin\Debug\net8.0-windows\Line.deps.json
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\bin\Debug\net8.0-windows\Line.runtimeconfig.json
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\bin\Debug\net8.0-windows\Line.dll
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\bin\Debug\net8.0-windows\Line.pdb
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.Form1.resources
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.dll
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\refint\Line.dll
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.pdb
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CG\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\ref\Line.dll
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\bin\Debug\net8.0-windows\Line.exe
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\bin\Debug\net8.0-windows\Line.deps.json
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\bin\Debug\net8.0-windows\Line.runtimeconfig.json
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\bin\Debug\net8.0-windows\Line.dll
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\bin\Debug\net8.0-windows\Line.pdb
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.Form1.resources
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.csproj.GenerateResource.cache
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.GeneratedMSBuildEditorConfig.editorconfig
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.AssemblyInfoInputs.cache
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.AssemblyInfo.cs
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.csproj.CoreCompileInputs.cache
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.dll
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\refint\Line.dll
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.pdb
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\Line.genruntimeconfig.cache
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Line (translate, scale, rotate, clean)\obj\Debug\net8.0-windows\ref\Line.dll

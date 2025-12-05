@@ -1,0 +1,10 @@
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Circle\circ\bin\Debug\circ.exe.config
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Circle\circ\bin\Debug\circ.exe
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Circle\circ\bin\Debug\circ.pdb
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Circle\circ\obj\Debug\Circl.csproj.AssemblyReference.cache
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Circle\circ\obj\Debug\Circl.Form1.resources
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Circle\circ\obj\Debug\circ.Properties.Resources.resources
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Circle\circ\obj\Debug\Circl.csproj.GenerateResource.cache
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Circle\circ\obj\Debug\Circl.csproj.CoreCompileInputs.cache
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Circle\circ\obj\Debug\circ.exe
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\Circle\circ\obj\Debug\circ.pdb

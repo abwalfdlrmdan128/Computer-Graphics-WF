@@ -71,3 +71,68 @@ The lines are drawn on a **Bitmap** canvas instead of direct `Graphics`, which i
 - `bin/` & `obj/`: Auto-generated folders for compiled binaries and temporary files (do not commit to Git).
 - `.gitignore`: Specifies files and directories to exclude from version control.
 
+---
+# 🎯 Bresenham’s Circle Drawing Algorithm (C# Implementation)
+
+This project demonstrates how to draw a circle using **Bresenham’s Midpoint Circle Algorithm** in C#.  
+The algorithm uses **integer arithmetic and 8-way symmetry** for fast and efficient rasterization of circles.
+
+- **MainForm**  
+![MainForm](./Images/)
+
+---
+
+## 📌 Overview
+
+Bresenham’s circle algorithm avoids slow trigonometric calculations and instead uses a decision parameter to determine the next pixel.  
+It calculates points in **one octant** and uses symmetry to draw the full circle.
+
+This makes it very efficient and ideal for:
+
+- Computer graphics  
+- Game development  
+- Low-power or embedded systems  
+- Teaching fundamental graphics algorithms  
+
+---
+
+## 🧠 How the Algorithm Works
+
+The algorithm uses the circle equation:
+
+And draws only 1/8 of the circle, then mirrors it across axes:
+
+- (+x, +y)
+- (-x, +y)
+- (+x, -y)
+- (-x, -y)
+- (+y, +x)
+- (-y, +x)
+- (+y, -x)
+- (-y, -x)
+
+This is the core idea of **8-way symmetry**.
+
+---
+
+## 🧩 Plotting Symmetric Points (Core Function)
+
+```csharp
+void PlotCirclePoints(Bitmap b, int x_centre, int y_centre, int x, int y)
+{
+    b.SetPixel(x + x_centre, y + y_centre, Color.Red);
+    b.SetPixel(-x + x_centre, y + y_centre, Color.Red);
+    b.SetPixel(x + x_centre, -y + y_centre, Color.Red);
+    b.SetPixel(-x + x_centre, -y + y_centre, Color.Red);
+
+    if (x != y)
+    {
+        b.SetPixel(y + x_centre, x + y_centre, Color.Red);
+        b.SetPixel(-y + x_centre, x + y_centre, Color.Red);
+        b.SetPixel(y + x_centre, -x + y_centre, Color.Red);
+        b.SetPixel(-y + x_centre, -x + y_centre, Color.Red);
+    }
+}
+
+
+
